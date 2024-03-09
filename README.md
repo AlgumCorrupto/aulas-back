@@ -1,24 +1,7 @@
-# README
+<h1>Aulas-back</h1>
+<p>Meu segundo projeto em ruby on rails, mais robusto que o anterior</p>
+<h3>Equema da Database</h3>
+<p>Ela segue mais ou menos esse esquema</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![image](https://github.com/AlgumCorrupto/aulas-back/assets/112904295/51977dec-f197-4364-8f42-386d62b42aa4)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
