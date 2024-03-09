@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  disciplina_id: 1
+  título: MyString
+  corpo: MyText
+
+two:
+  disciplina_id: 1
+  título: MyString
+  corpo: MyText
